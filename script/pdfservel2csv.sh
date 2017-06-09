@@ -2,15 +2,16 @@
 #
 #  Este  script toma  los datos  del  padron electoral  del servel  en
 #  formato PDF y los transforma a formato de texto plano csv, el error
-#  de este escript  es del 0.58% para el padron  electoral del 2016 el
-#  cual tenia 13846209 registros
+#  en el parseo de los datos es del 0.58% para el padron electoral del
+#  2016 el cual contiene 13846209 registros
 #
 # USO:
 #  pdfservel2csv.sh  [-s]  -o dest file1.pdf [file2.pdf ...]
 #
-#  -s : No imprime header en el csv
-#  -o : Si dest es un directorio el resultado se pondra dentro caso
-#       contrario el resultado ira al archivo.
+#  -s : Genera csv [S]in header
+#  -o : Si dest  es un directorio se generara un csv  por cada pdf, si
+#       dest  es el  nombre  de un  archivo se  generara  solo un  csv
+#       conteniendo todos los registros
 #
 
 
