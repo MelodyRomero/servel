@@ -60,13 +60,7 @@ conjunto de datos dentro de un mar gigantesco de información.
 
 # Objetivos
 
-A modo  de "juego" y  con fines educativos  e ilustrativos (y  por que
-últimamente ando  un poco  ocioso) intentare mostrar  lo fácil  que es
-manipular estos  datos y cruzarlos con  otros, y que nos  demos cuenta
-que así  como lo estoy  asiendo yo  cualquiera puede hacerlo,  es mas,
-dejare públicamente todas las herramientas que valla desarrollando con
-el objetivo de enfatizar en este punto.
-
+TODO
 
 
 
